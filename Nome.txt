@@ -1,0 +1,1 @@
+echo "Walter Dias Menezes" > nome.txt
